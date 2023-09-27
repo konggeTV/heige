@@ -1,12 +1,11 @@
 //全部数据来自网络和各大佬资源整合
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
-//QQ频道：小盒酷玩    
-//公众号：小盒酷玩
-//QQ交流群：817925554
+//孔哥TV,小白作品，欢迎使用 
+
 
 {
 
-"warningText":"小盒酷玩提醒：江湖路漫漫-有缘再会！",    
+"warningText":"孔哥TV提醒：欢迎使用,完全免费！",    
 
 
 "sites":[
@@ -19,7 +18,7 @@
 
 {"key": "厂长","name": "🐼厂长┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/厂长.json"},
 
-{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "douban","name": "Q群：XXXXXXXXX","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ],
