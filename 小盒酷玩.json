@@ -26,19 +26,28 @@
 
 {"key": "南瓜","name": "🐼南瓜┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/南瓜.js"},
 
-{"key": "影探","name": "🐼影探","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/影探.js"},
+{"key": "hd魔力","name": "🐼魔力┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/hd魔力.js"},
 
 {"key": "子子影视","name": "🐼子子┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/子子影视.js"},
 
-{"key": "在线","name": "🐼在线","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/在线.js"},
+{"key": "六度","name": "🐼六度┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/六度.js"},
 
-{"key": "聚合","name": "🐼聚合","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/聚合.js"},
+{"key": "蚂蚁","name": "🐼蚂蚁┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/蚂蚁.js"},
 
 {"key": "酷影","name": "🐼酷影┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷影.js"},
 
-{"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"}
+{"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"},
 
-
+  {
+      "key": "csp_Mp4Mov",
+      "name": "♻️Mp4电影🧲",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
+    }
 
 ],
 
