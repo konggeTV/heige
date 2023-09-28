@@ -22,7 +22,9 @@
 
 {"key": "384影视","name": "🐼384┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/影视.json"},
 
-{"key": "douban","name": "QQ:1107606785","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "douban","name": "QQ:1107606785","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+
+{"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"}
 
 ],
 
