@@ -868,6 +868,24 @@
 {"key":"drpy_js_音悦网","name":"MV | 音悦网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/音悦网.js"},
 
 {
+      "key": "吾爱戏曲",
+      "name": "吾爱戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/6R1hp/%E5%90%BE%E7%88%B1%E6%88%8F%E6%9B%B2.json"
+    },
+{
+      "key": "drpy_js_喜马拉雅",
+      "name": "喜马拉雅",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
+      "ext": "https://pan.shangui.cc/f/2R4Tx/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
+    },
+
+{
       "key": "csp_WoGG",
       "name": "玩偶哥哥",
       "type": 3,
