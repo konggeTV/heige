@@ -18,7 +18,17 @@
 
 {"key": "厂长","name": "🐼厂长┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/厂长.json"},
 
-{"key": "douban","name": "Q群：XXXXXXXXX","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+ {"key": "drpy_蘑菇",
+    "name": "🍄蘑菇",
+    "type": 3,
+    "searchable": 1,
+    "changeable": 1,
+    "playerType": 2,
+    "api": "./lib/drpy2.min.js",
+    "ext": "./js/蘑菇.js"},
+
+
+{"key": "douban","name": "QQ：1107606785","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ],
@@ -28,7 +38,16 @@
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
-{"name": "web聚合","type": 3,"url": "Web"}
+{"name": "web聚合","type": 3,"url": "Web"},
+
+{"name": "超嗅探","type": 3,"url": "Web"},
+
+{"name": "web聚合","type": 3,"url": "Web"},
+
+{"name": "Json轮询","type": 2,"url": "Sequence"},
+
+{"name": "Json并发","type": 2,"url": "Parallel"}
+
 
 ],
 
