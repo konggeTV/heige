@@ -27,11 +27,10 @@
 {"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"}, 
 
 {
-"key": "爱奇异",
-"name": "🐼爱奇艺(官源)",
-"type": 3,
-"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-"ext": "https://pan.shangui.cc/f/2z4Fx/iqy.js"
+   "name": "🐼爱奇艺(官源)",
+   "type": 3,
+   "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
+   "ext": "https://pan.shangui.cc/f/2z4Fx/iqy.js"
 },  
 
   {
@@ -42,7 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
+  },
     {
       "key": "csp_Lib1",
       "name": "♻️利播直连",
@@ -54,11 +53,12 @@
       "ext": "https://www.libvio.pro/"
     },
 { "key": "厂长",
-"name": "🐼厂长",
-"type": 3,
-"api": "csp_Czsapp", "searchable": 1,
-"quickSearch": 1, "filterable": 1, "playerType": 2,
- "ext": "https://cz01.cc/" },
+  "name": "🐼厂长",
+  "type": 3,
+  "api": "csp_Czsapp", "searchable": 1,
+  "quickSearch": 1, "filterable": 1, "playerType": 2,
+  "ext": "https://cz01.cc/" 
+},
 
   {
       "key": "csp_Mp4Mov",
