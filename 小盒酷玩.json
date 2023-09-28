@@ -26,16 +26,7 @@
 
 {"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"},
 
-    {
-      "key": "csp_WoGG",
-      "name": "♻️玩偶.饭",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
-    }
+
 
 ],
 
