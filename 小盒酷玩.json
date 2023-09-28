@@ -38,25 +38,8 @@
 
 {"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"},
 
-  {
-      "key": "csp_Mp4Mov",
-      "name": "♻️Mp4电影🧲",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
-    },
- {
-      "key": "csp_DiDuan",
-      "name": "♻️低端直连",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+  
+      
     {
       "key": "csp_Lib1",
       "name": "♻️利播直连",
@@ -65,7 +48,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.pro/"
+      "ext": "https://www.libvio.pro/",
+      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
     },
     {
       "key": "厂长",
@@ -76,7 +60,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://cz01.cc/"
+      "ext": "https://cz01.cc/",
+      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
     },
    
     {
@@ -90,73 +75,11 @@
       "ext": "http://www.xb6v.com",
       "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
     },
+    
+    
+    
     {
-      "key": "csp_SeedHub",
-      "name": "🚖SeedHub🧲",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
-    },
-    {
-      "key": "csp_KubaCL",
-      "name": "🚖酷吧电影🧲",
-      "type": 3,
-      "api": "csp_KubaCL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
-    },
-    {
-      "key": "csp_MeijuTT",
-      "name": "🚖美剧天堂🧲",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
-    },
-    {
-      "key": "csp_MeijuMi",
-      "name": "🚖美剧迷🧲",
-      "type": 3,
-      "api": "csp_MeijuMi",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
-    },
-    {
-      "key": "csp_BLSGod",
-      "name": "🚖80S影视🧲",
-      "type": 3,
-      "api": "csp_BLSGod",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
-    },
-    {
-      "key": "csp_Xunlei8",
-      "name": "🚖迅雷吧🧲",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
-    },
-    {
+    
       "key": "csp_XYQHikerAL_4KHDR",
       "name": "🚖4KHDR🧲📀",
       "type": 3,
