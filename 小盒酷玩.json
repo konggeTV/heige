@@ -12,14 +12,14 @@
 
 {"key": "豆瓣","name": "孔哥Tv","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "csp_WoGG","name": "🐼玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
+{"key": "csp_WoGG","name": "🐼玩┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 {"key":"影视王朝","name":"🐼王朝┃云盘","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
 {"key": "猫咪","name": "🐼猫咪┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
 {"key": "厂长","name": "🐼厂长┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/厂长.json"},
 
-{"key": "热播","name": "热播┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/热播.json"},
+{"key": "热播","name": "🐼热播┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/热播.json"},
 
 {"key": "384影视","name": "🐼384┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/影视.json"},
 
@@ -39,7 +39,7 @@
 
  {
       "key": "蚂蚁",
-      "name": "🐼蚂蚁",
+      "name": "🐼小蚂蚁┃影视",
       "type": 3,
       "api": "csp_Mayiys",
        "jar":" https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",
@@ -50,7 +50,7 @@
     },
         {
       "key": "Xinsj",
-      "name": "🐼视觉",
+      "name": "🐼视觉┃影视",
       "type": 3,
       "api": "csp_Xinsj",
        "jar":" https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",
@@ -61,21 +61,21 @@
     },
        {
             "key" : "js_v2-yj",
-            "name" :"🦄玉米",
+            "name" :"🦄玉米┃影视",
             "type" : 3,
             "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/遇见.js"
         },
               {
       "key": "畅梦",
-      "name": "🦄畅梦",
+      "name": "🦄畅梦┃影视",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
    },
  {
             "key": "厂长",
-            "name": "🤵厂长",
+            "name": "🤵厂长┃影视",
             "type": 3,
             "playerType": 2,
             "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
@@ -83,7 +83,7 @@
         },
          {
       "key": "drpy_蘑菇",
-      "name": "🍄蘑菇",
+      "name": "🍄蘑菇┃影视",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -93,7 +93,7 @@
     },
          {
       "key": "drpy_骚火电影",
-      "name": "🔥骚火",
+      "name": "🔥骚火┃影视",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -104,7 +104,7 @@
    
     {
       "key": "XYQH_在线之家",
-      "name": "🏜在线",
+      "name": "🏜在线┃影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -115,7 +115,7 @@
    
     {
       "key": "csp_秋秋",
-      "name": "🐧腾讯",
+      "name": "🐧腾讯┃影视",
       "type": 1,
       "playerType": 2,
       "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
@@ -129,7 +129,7 @@
     },
     {
       "key": "csp_艺艺",
-      "name": "💜奇艺",
+      "name": "💜奇艺┃影视",
       "type": 1,
       "playerType": 2,
       "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",      
@@ -143,7 +143,7 @@
     },
     {
       "key": "csp_搜搜",
-      "name":  "🦊搜狐",
+      "name":  "🦊搜狐┃影视",
       "type": 1,
       "playerType": 2,
       "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",      
@@ -153,7 +153,7 @@
     },  
     {
       "key": "csp_360",
-      "name": "🍳360",
+      "name": "🍳360┃影视",
       "type": 1,
       "playerType": 2,
       "api": "http://tvbox.top/360.php",      
@@ -163,7 +163,7 @@
     },  
      {
             "key": "365",
-            "name": "🔢365",
+            "name": "🔢365┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "http://guan.yy365.vip/api.php/app/"
@@ -171,14 +171,14 @@
        
         {
             "key": "迷你库",
-            "name": "🐹迷你",
+            "name": "🐹迷你┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
             "key": "南瓜",
-            "name": "🎃南瓜",
+            "name": "🎃南瓜┃影视",
             "type": 3,
             "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
             "ext": "http://8.210.232.168/ys/dr_py/js/%E5%8D%97%E7%93%9C.js"
@@ -201,14 +201,14 @@
         },
         {
             "key": "优酷",
-            "name": "🆒优酷",
+            "name": "🆒优酷┃影视",
             "type": 3,
             "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
             "ext": "https://tvmvip.com/xc/js/%E4%BC%98%E9%85%B7.js"
         },
         {
             "key": "360",
-            "name": "🍳360",
+            "name": "🍳360┃影视",
             "type": 3,
             "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
             "ext": "http://8.210.232.168/ys/dr_py/js/360%E5%BD%B1%E8%A7%86.js"
@@ -229,7 +229,7 @@
         },
 {
 			"key": "csp_xml_天空",
-			"name": "🌞天空",
+			"name": "🌞天空┃影视",
 			"type": 1,
 			"api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
 			"searchable": 1,
@@ -270,7 +270,7 @@
 		},
 			{
 			"key": "csp_xml_暴风",
-			"name": "🌊暴风",
+			"name": "🌊暴风┃影视",
 			"type": 1,
 			"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -312,7 +312,7 @@
 
 		{
 			"key": "csp_xml_红牛",
-			"name": "🐮红牛",
+			"name": "🐮红牛┃影视",
 			"type": 1,
 			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
 			"searchable": 1,
@@ -356,7 +356,7 @@
 		},
 		{
 			"key": "csp_xml_无尽",
-			"name": "🈚无尽",
+			"name": "🈚无尽┃影视",
 			"type": 1,
 			"api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -398,7 +398,7 @@
 		},
 		{
 			"key": "csp_xml_光速",
-			"name": "🌕光速",
+			"name": "🌕光速┃影视",
 			"type": 1,
 			"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
 			"searchable": 1,
@@ -437,7 +437,7 @@
 		},
 		{
 			"key": "csp_xml_飞速",
-			"name": "🚁飞速",
+			"name": "🚁飞速┃影视",
 			"type": 1,
 			"api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -478,7 +478,7 @@
 		},
 		{
 			"key": "csp_xml_优质",
-			"name": "🗿优质",
+			"name": "🗿优质┃影视",
 			"type": 1,
 			"api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
 			"searchable": 1,
@@ -516,7 +516,7 @@
 		},
 		{
 			"key": "csp_xml_新浪",
-			"name": "🐺新浪",
+			"name": "🐺新浪┃影视",
 			"type": 1,
 			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
 			"searchable": 1,
@@ -555,7 +555,7 @@
 		},
 		{
 			"key": "淘片资源",
-			"name": "🐁淘片",
+			"name": "🐁淘片┃影视",
 			"type": 1,
 			"api": "https://taopianapi.com/cjapi/mc/vod/json.html",
 			"searchable": 1,
@@ -563,7 +563,7 @@
 		},
 		{
 			"key": "卧龙资源",
-			"name": "🐉卧龙",
+			"name": "🐉卧龙┃影视",
 			"type": 1,
 			"api": "https://collect.wolongzyw.com/api.php/provide/vod/",
 			"searchable": 1,
@@ -608,7 +608,7 @@
 		},
 		{
 			"key": "csp_xml_百度",
-			"name": "🆔百度",
+			"name": "🆔百度┃影视",
 			"type": 1,
 			"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -652,7 +652,7 @@
 		},
 		{
 			"key": "csp_xml_闪电资源",
-			"name": "🌩闪电",
+			"name": "🌩闪电┃影视",
 			"type": 1,
 			"api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -698,7 +698,7 @@
 		},
 		{
 			"key": "csp_xml_鱼乐资源",
-			"name": "🐳鱼乐",
+			"name": "🐳鱼乐┃影视",
 			"type": 1,
 			"api": "https://api.yulecj.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -744,7 +744,7 @@
 		},
 		{
 			"key": "csp_xml_ckzy",
-			"name": "🈁CK",
+			"name": "🈁CK┃影视",
 			"type": 1,
 			"api": "https://ckzy.me/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -793,7 +793,7 @@
 	
 		{
 			"key": "csp_xml_ikun",
-			"name": "🆖ikun",
+			"name": "🆖ikun┃影视",
 			"type": 1,
 			"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
 			"searchable": 1,
