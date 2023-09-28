@@ -26,6 +26,10 @@
 
 {"key": "南瓜","name": "🐼南瓜┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/南瓜.js"},
 
+{"key": "影探","name": "🐼影探","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/影探.js"},
+
+{"key": "子子影视","name": "🐼子子┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/子子影视.js"},
+
 {"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"}
 
 
