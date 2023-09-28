@@ -24,32 +24,6 @@
 
 {"key": "douban","name": "QQ:1107606785","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{
-   "name": "🐼爱奇艺(官源)",
-   "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-   "ext": "https://pan.shangui.cc/f/2z4Fx/iqy.js"
-},  
-
-  {
-      "key": "csp_DiDuan",
-      "name": "♻️低端直连",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-  },
-    {
-      "key": "csp_Lib1",
-      "name": "♻️利播直连",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pro/"
-    },
 
 
 {"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"}
