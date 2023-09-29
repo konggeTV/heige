@@ -1260,6 +1260,26 @@
     }
   ],
 
+"spider":"./pandaQ230823.jar?sign=x3IH2EXisG6-YPvlUuibYqI6oQmR_ivepK8N3akpEi8%3D%3A0",
+
+
+
+"dairyWords": [{
+    "name": "rating",
+	    "request": {
+		     "method": "GET",
+			      "url": {
+				        "raw": "https://saying.api.azwcl.com/saying/get"
+						     }
+							     },
+								     "response": {
+									         "result": "$.data.content"
+											     },
+												     "expires" : "43200"
+													 }],
+													 
+
+
 
 "rules": [
 {"host": "*","rule": ["default.365yg.com"]},
