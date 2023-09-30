@@ -906,6 +906,16 @@
       "filterable": 1,
       "ext": "https://pan.shangui.cc/f/6R1hp/%E5%90%BE%E7%88%B1%E6%88%8F%E6%9B%B2.json"
     },
+	{
+      "key": "csp_戏曲",
+      "name": "哔哩┃戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "ext": "./lib/戏曲.json"
+    },
+
 {
       "key": "drpy_js_喜马拉雅",
       "name": "喜马拉雅",
