@@ -895,40 +895,36 @@
 {"key":"drpy_js_酷狗MV","name":"MV | 酷狗","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷狗MV.js"},
 {"key":"drpy_js_酷奇MV","name":"MV | 酷奇","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"},
 {"key":"drpy_js_音悦网","name":"MV | 音悦网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/音悦网.js"},
-{
-        
-         "key": "吾爱经典",
-            "name": "♻️吾爱音乐",
+ {
+            "key": "吾爱经典",
+            "name": "吾爱音乐",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://pan.shangui.cc/f/V7NT8/%E5%90%BE%E7%88%B1%E7%BB%8F%E5%85%B8.json" },
- {
-            "key": "drpy_js_博看听书",
-            "name": "博看听书",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-            "ext": "https://pan.shangui.cc/f/E73UD/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"
+            "ext": "https://pan.shangui.cc/f/V7NT8/%E5%90%BE%E7%88%B1%E7%BB%8F%E5%85%B8.json"
         },
 {
-       "key": "吾爱戏曲",
-            "name": "吾爱戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://pan.shangui.cc/f/6R1hp/%E5%90%BE%E7%88%B1%E6%88%8F%E6%9B%B2.json"   },
+      "key": "吾爱戏曲",
+      "name": "吾爱戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/6R1hp/%E5%90%BE%E7%88%B1%E6%88%8F%E6%9B%B2.json"
+    },
+
 	{
       "key": "csp_戏曲",
       "name": "哔哩┃戏曲",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://gitlab.com/1107606785/konggetv/-/raw/main/lib/%E6%88%8F%E6%9B%B2.json"
+      "filterable": 1,
+      "ext": "./lib/Blixq.json"
     },
 
 {
@@ -938,16 +934,6 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/2R4Tx/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
     },
-  {
-            "key": "兴趣培养",
-            "name": "♻️兴趣培养",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://pan.shangui.cc/f/jBK8h7/%E5%85%B4%E8%B6%A3%E5%9F%B9%E5%85%BB.json"
-        },
 
 {
       "key": "csp_WoGG",
