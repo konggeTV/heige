@@ -913,7 +913,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
-      "ext": "./lib/戏曲.json"
+      "ext": "https://gitlab.com/1107606785/konggetv/-/raw/main/lib/%E6%88%8F%E6%9B%B2.json"
     },
 
 {
