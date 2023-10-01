@@ -21,12 +21,12 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "孔哥Tv","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "孔哥TvQQ:1107606785","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {"key": "csp_WoGG","name": "🐼玩┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 {
       "key": "xml_玩偶",
-      "name": "🧙玩偶┃哥哥",
+      "name": "🐼玩偶┃哥哥",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8d0c1f989f8c4aa2931f243ea0e7c8b4",
       "searchable": 1,
@@ -35,7 +35,7 @@
     },
   {
       "key": "csp_AppYsV2_玉米",
-      "name": "玉米┃影视",
+      "name": "🐼玉米┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "playUrl": "http://61.147.93.21:8090/index.php?url=",
@@ -54,7 +54,7 @@
 
 {"key": "384影视","name": "🐼384┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/影视.json"},
 
-{"key": "douban","name": "QQ:1107606785","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+
 
 {"key": "南瓜","name": "🐼南瓜┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/南瓜.js"},
 
@@ -985,7 +985,7 @@
 
 
 
-{"key":"csp_非凡资源","name":"非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"csp_非凡资源","name":"🐼非凡资源┃影视","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
 
 
@@ -1015,7 +1015,7 @@
     },
  {
             "key": "软件",
-            "name": "♻️软件教程",
+            "name": "软件教程",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
