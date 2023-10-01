@@ -905,94 +905,26 @@
       "ext": "https://pan.shangui.cc/f/2R4Tx/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
     },
 
-{
-      "key": "csp_WoGG",
-      "name": "玩偶哥哥",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
-    },
-    {
-      "key": "YiSo",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$yingshi$$$abcd1234"
-    },
-    {
-      "key": "PanSou",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "UpYun",
-      "name": "UP云搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "PanSearch",
-      "name": "盘搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "Dovx",
-      "name": "七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+{"key": "csp_XBPQ_6V","name": "新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://leige9042.tpddns.cn:3000/jk-main/json/新6V.json"},
 
- }
+{"key": "csp_厂长","name": "主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://leige9042.tpddns.cn:3000/jk-main/json/厂长.json"},
+
+{"key":"腾讯","name":"官方┃资源","type":3,"api":"https://leige9042.tpddns.cn:3000/jk-main/lib/drpy2.min.js","ext":"https://leige9042.tpddns.cn:3000/jk-main/js/tengxun.js"},
+
+{"key":"荐片","name":"荐片┃磁力","type":3,"playerType":1,"api":"https://leige9042.tpddns.cn:3000/jk-main/lib/drpy2.min.js","ext":"https://leige9042.tpddns.cn:3000/jk-main/js/荐片.js"},
+
+{"key":"爱迪","name":"爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"https://leige9042.tpddns.cn:3000/jk-main/jar/xyq.jar"},
+
+{"key": "PanSearch","name": "盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|fhd|auto"},
+
+{"key": "七夜","name": "七夜┃云盘","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|fhd|auto"},
+    
+{"key": "YiSo","name": "易搜┃云盘","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|fhd|auto"},
+
+{"key": "PanSou","name": "盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|auto|fhd"},
+
+{"key": "UpYun","name": "Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|auto|fhd"}
+
 
 
   
