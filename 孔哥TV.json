@@ -1162,7 +1162,7 @@
       "key": "有声小说js",
       "name": "有声小说",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "./js/drpy1.min.js",
       "ext": "./js/有声小说吧.js",
       "searchable": 0,
       "quickSearch": 0,
