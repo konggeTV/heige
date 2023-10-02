@@ -1180,15 +1180,15 @@
 
 {"key":"荐片","name":"🍳荐片┃磁力","type":3,"playerType":1,"api":"https://leige9042.tpddns.cn:3000/jk-main/lib/drpy2.min.js","ext":"https://leige9042.tpddns.cn:3000/jk-main/js/荐片.js"},
 
-{"key": "PanSearch","name": "🍳盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|fhd|auto"},
+{"key": "PanSearch","name": "🍳盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":  "https://gitlab.com/1107606785/konggetv/-/raw/main/tvbox/tok.txt+4k|fhd|auto"},
 
-{"key": "七夜","name": "🍳七夜┃云盘","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|fhd|auto"},
+{"key": "七夜","name": "🍳七夜┃云盘","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://gitlab.com/1107606785/konggetv/-/raw/main/tvbox/tok.txt+4k|fhd|auto"},
     
-{"key": "YiSo","name": "🍳易搜┃云盘","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|fhd|auto"},
+{"key": "YiSo","name": "🍳易搜┃云盘","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext":  "https://gitlab.com/1107606785/konggetv/-/raw/main/tvbox/tok.txt+4k|fhd|auto"},
 
-{"key": "PanSou","name": "🍳盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|auto|fhd"},
+{"key": "PanSou","name": "🍳盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://gitlab.com/1107606785/konggetv/-/raw/main/tvbox/tok.txt+4k|fhd|auto"},
 
-{"key": "UpYun","name": "🍳Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|auto|fhd"}
+{"key": "UpYun","name": "🍳Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":  "https://gitlab.com/1107606785/konggetv/-/raw/main/tvbox/tok.txt+4k|fhd|auto"}
 
 
 
