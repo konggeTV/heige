@@ -1154,15 +1154,7 @@
 {"key":"drpy_js_酷奇MV","name":"🐲MV|酷奇","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"},
 {"key":"drpy_js_音悦网","name":"🐲MV|音悦网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/音悦网.js"},
  
- {
-      "key": "演唱会",
-      "name": "🐲哔哩┃音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "./json/ych.json"
-    },
+{"key": "演唱会","name": "🐲哔哩┃音乐","type": 3,"api": "csp_Bili","searchable": 0, "quickSearch": 0,"ext": "./json/ych.json" },
 
 
 {"key":"drpy_js_有声小说","name":"🐲听书|有声小说","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/有声小说吧.js","playerType":"2"},
@@ -1173,28 +1165,12 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/2R4Tx/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
     },
- {
-            "key": "软件",
-            "name": "软件教程",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://out.zxglife.top/down.php/416f4f7edb5815a6487dad89f35372ed.json"
-        
-        },
-{"key": "戏 曲" ,"name": "👨‍🎨国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://out.zxglife.top/down.php/e0a562362806f3a50d767ed5ebeb6cb7.json"},
+ {"key": "软件", "name": "软件教程", "type": 3,"api": "csp_Bili", "searchable": 1, "quickSearch": 1, "filterable": 1,
+  "ext": "https://out.zxglife.top/down.php/416f4f7edb5815a6487dad89f35372ed.json" },
 
-{
-      "key": "csp_戏曲",
-      "name": "👨‍🎨哔哩┃戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "ext": "./json/戏曲.json"
-    },
+{"key": "戏曲" ,"name": "👨‍🎨国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://out.zxglife.top/down.php/e0a562362806f3a50d767ed5ebeb6cb7.json"},
+
+{"key": "csp_戏曲","name": "👨‍🎨哔哩┃戏曲","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"ext": "./json/戏曲.json" },
 
 {"key": "csp_XBPQ_6V","name": "🍳新6V┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://leige9042.tpddns.cn:3000/jk-main/json/新6V.json"},
 
