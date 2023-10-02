@@ -1135,6 +1135,14 @@
 
 {"key":"NoSearch_Yj1211_spider","name":"🐼直播聚合","api":"csp_Yj1211","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1},
 
+{
+      "key": "直播转点播",
+      "name": "┃电视┃直播",
+      "type": 3,
+      "api": "./js/直播转点播.js",
+      "ext": "./json/直播仓.json"
+    },
+
 {"key":"drpy_js_斗鱼直播","name":"🐼斗鱼直播┃影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"},
 
 {"key":"drpy_js_短视频","name":"🐲聚合|短视频","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/短视频.js"},
