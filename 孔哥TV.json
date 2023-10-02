@@ -828,9 +828,9 @@
 				"欧美综艺"
 			]
 		},
-        {
+  {
             "key": "csp_58",
-            "name": "👺58动漫 |KTV",
+            "name": "👺58动漫 1|动漫",
             "type": 3,
             "style": {
                 "type": "rect",
@@ -862,14 +862,88 @@
                 "搜索图片": "data-original=\"&&\"",
                 "搜索链接": "href=\"&&\"",
                 "线路数组": "data-toggle=&&</a>[替换:动漫专线⑦>>动漫专线1#动漫专线⑤>>动漫专线2][不包含:动漫专线①#动漫专线②#动漫专线④#动漫专线③#动漫专线⑥]",
-                "线路标题": "❤+>&&<+❤",
+                "线路标题": "+>&&<+",
                 "播放数组": "<ul class=\"myui-content__list&&</ul>",
                 "播放标题": ">&&<",
                 "播放列表": "<a&&/a>",
                 "分类url": "http://www.ting38.com/ting/{cateId}-{catePg}.html;;ak",
                 "分类": "国产动漫$2#动漫电影$4#新番日漫$1#欧美动漫$3"
             }
-        },  
+        },
+        {
+            "key": "58dm",
+            "name": "👺58动漫 2|动漫",
+            "api": "csp_XBPQ",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "playerType": "2",
+            "ext": {
+                "站名": "58动漫",
+                "主页url": "http://www.58run.net",
+                "数组": "class=\"stui-vodlist__box\">&&</a",
+                "链接": "href=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": " <span class=\"pic-text text-right\">&&</span>",
+                "分类url": "http://www.58run.net/category/{cateId}-{catePg}.html",
+                "分类": "国产动漫$1#日韩动漫$2#欧美动漫$3#高清动漫$4#电影$5"
+            }
+        },
+        {
+            "key": "csp_XPath_age",
+            "name": "👺AGE动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "站名": "AGE动漫",
+                "主页url": "https://www.agedm123.com/",
+                "数组": "class=\"media-wrapper\">&&</div",
+                "链接": "href=\"&&\"",
+                "图片": "class=\"lazy\" data-original=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "分类url": "https://www.agedm123.com/type/{cateId}-{catePg}.html",
+                "分类": "国产动漫$1#日本动漫$2#欧美动漫$3#其他动漫$4#动画电影$5"
+            }
+        },
+        {
+            "key": "csp_XBPQ_dmdao",
+            "name": "👺动漫岛",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "站名": "动漫岛",
+                "主页url": "https://www.dmdao.tv",
+                "数组": "class=\"stui-vodlist__box\">&&</a",
+                "链接": "href=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "<span class=\"pic-text1 text-right\"><b>&&</b></span>",
+                "分类url": "https://www.dmdao.tv/show/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+                "分类": "国产动漫$21#日本动漫$20#欧美动漫$22#剧场电影$23"
+            }
+        },
+        {
+            "key": "drpy_js_路漫漫",
+            "name": "👺路漫漫",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
+            "ext": "https://pan.shangui.cc/f/4Rku0/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js"
+        },
+     
+ 
         {
             "key": "csp_xpath___动漫巴士",
             "name": "👺动漫巴士",
@@ -881,6 +955,109 @@
             "ext": "https://pan.shangui.cc/f/p6GxtL/dm84_2.json"
         },
  
+        {
+            "key": "csp_Ying",
+            "name": "👺樱花动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "nt动漫",
+            "name": "👺拿铁动漫",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
+            "ext": "https://pan.shangui.cc/f/oV0U7/ntdm.js"
+        },
+        {
+            "key": "妮可",
+            "name": "👺妮可动漫",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
+            "ext": "https://pan.shangui.cc/f/DRoIz/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"
+        },
+        {
+            "key": "anfuns",
+            "name": "👺ANF动漫",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
+            "ext": "https://pan.shangui.cc/f/nNET2/anfuns.js"
+        },
+        {
+            "key": "怡萱动漫",
+            "name": "👺怡萱动漫",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
+            "ext": "https://pan.shangui.cc/f/K7mi6/%E6%80%A1%E8%90%B1.js"
+        },
+        {
+            "key": "去看吧",
+            "name": "👺去看动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/1RVtw/%E5%8E%BB%E7%9C%8B%E5%90%A7.json"
+        },
+        {
+            "key": "维奇",
+            "name": "👺维奇动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/3ReSv/%E7%BB%B4%E5%A5%87.json"
+        },
+   {"key": "csp_Dm84",
+            "name": "👺动漫巴士1",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_xpath___动漫巴士",
+            "name": "👺动漫巴士2",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/p6GxtL/dm84_2.json"
+        },
+        {
+            "key": "csp_Dm84_3",
+            "name": "👺动漫巴士3",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/qmzjIG/Dm84_3.json"
+        },
+        {
+            "key": "csp_Ysj",
+            "name": "👺异界动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Anime1",
+            "name": "👺日漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_Ying",
             "name": "👺樱花动漫",
