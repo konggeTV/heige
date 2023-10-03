@@ -71,6 +71,41 @@
 
 {"key": "酷影","name": "🐼酷影┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷影.js"},
 
+{"key":"酷云77","name":"🐼酷云77┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"农民影视","name":"🐼农民┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/nongmin.json"},
+
+{"key":"低端影视","name":"🐼低端┃秒播","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/diduan.json"},
+{"key":"在线之家","name":"🐼外剧┃秒播","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/zaixian.js"},
+{"key":"素白白","name":"🐼素白┃秒播","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/subaibai.js"},
+{"key":"徕米影视","name":"🐼徕米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"https://weixine.net/sub/laimi.json"},
+
+{"key":"双十电影","name":"🐼双十电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://weixine.net/sub/shuangshi.json"},
+{"key":"饭团影视","name":"🐼饭团高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://weixine.net/sub/fantuan.json"},
+{ "key": "1080蓝光", "name": "🐼1080蓝光", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://1080dyw.com/icciu_api.php/v1.vod"},
+{"key":"皮皮鸭","name":"🐼皮皮鸭","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/pipiya.json"},
+{"key":"TVB云播","name":"🐼TVB云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/TVB.json"},
+{"key":"爱看机器人","name":"🐼爱看机器","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/ikanbot.js"},
+{"key":"明帝影视","name":"🐼明帝影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
+{"key":"爱迪影视","name":"🐼爱迪影视","type": 3,"api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
+{"key":"大豆高清","name":"🐼大豆高清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dadou.cm/api.php/app/"},
+{"key":"灰太狼","name":"🐼灰太狼","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/htl.json"},
+{"key":"555影视","name":"🐼555蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/555.json"},
+{"key":"热播之家","name":"🐼热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/rebozj.json"},
+{"key":"HDmoli","name":"🐼魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/HDmoli.json"},
+{"key":"爱看影院","name":"🐼爱看影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://weixine.net/sub/aikan.json"},
+{"key":"策驰影院","name":"🐼策驰影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/cechi.json"},
+{"key":"csp_Voflix","name":"🐼Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/voflix.json"},
+{"key":"宝仙HD","name":"🐼宝仙HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://weixine.net/sub/baoxian.json"},
+{"key":"101影院","name":"🐼101影院","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/l0l.js"},
+{"key":"Vidhub视频","name": "🐼视频库","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/Vidhub.json"},
+{"key":"石榴影视","name": "🐼石榴影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/shiliu.json"},
+{"key":"可乐","name":"🐼可乐","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/cokemv.js"},
+{"key":"两个BT","name":"🐼两个BT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://weixine.net/sub/bttwo.json"},
+{"key":"csp_AppYsV2","name":"🐼69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+{"key":"大师兄影视","name":"🐼大师兄影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/dashixiongyingshi.js"},
+{"key":"七年影视","name":"🐼七年影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://weixine.net/sub/qinian.json"},
+
 {"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"},
 
  {
