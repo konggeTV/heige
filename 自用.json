@@ -48,7 +48,9 @@
       "ext": "http://ym.dytt996.com:3/api.php/app/"
     },
 
+{"key":"皮皮鸭","name":"🐼皮皮鸭","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/pipiya.json"},
 
+{"key":"皮皮鸭","name":"🐼皮皮鸭","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/pipiya.json"},
 
 {"key": "子子影视","name": "🐼子子┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/子子影视.js"},
 
