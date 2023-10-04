@@ -47,6 +47,9 @@
       "filterable": 1,
       "ext": "http://ym.dytt996.com:3/api.php/app/"
     },
+{"key":"爱迪","name":"🐼爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"https://leige9042.tpddns.cn:3000/jk-main/jar/xyq.jar"},
+
+
 
 {"key":"皮皮鸭","name":"🐼皮皮鸭","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/pipiya.json"},
 
