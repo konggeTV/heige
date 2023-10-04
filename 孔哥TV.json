@@ -59,7 +59,7 @@
 
 
 
-{"key": "南瓜","name": "🐼南瓜┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/南瓜.js"},
+
 
 {"key": "hd魔力","name": "🐼魔力┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/hd魔力.js"},
 
@@ -69,10 +69,8 @@
 
 {"key": "蚂蚁","name": "🐼蚂蚁┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/蚂蚁.js"},
 
-{"key": "酷影","name": "🐼酷影┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷影.js"},
 
 
-{"key":"农民影视","name":"🐼农民┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/nongmin.json"},
 
 
 {"key":"在线之家","name":"🐼外剧┃秒播","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/zaixian.js"},
@@ -89,16 +87,16 @@
 {"key":"大豆高清","name":"🐼大豆高清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dadou.cm/api.php/app/"},
 {"key":"灰太狼","name":"🐼灰太狼","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/htl.json"},
 
-{"key":"热播之家","name":"🐼热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/rebozj.json"},
+
 {"key":"HDmoli","name":"🐼魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/HDmoli.json"},
-{"key":"爱看影院","name":"🐼爱看影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://weixine.net/sub/aikan.json"},
+
 {"key":"策驰影院","name":"🐼策驰影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/cechi.json"},
 
 {"key":"石榴影视","name": "🐼石榴影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/shiliu.json"},
 {"key":"可乐","name":"🐼可乐","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/cokemv.js"},
 
 {"key":"csp_AppYsV2","name":"🐼69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-{"key":"大师兄影视","name":"🐼大师兄影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/dashixiongyingshi.js"},
+
 {"key":"七年影视","name":"🐼七年影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://weixine.net/sub/qinian.json"},
 
 {"key": "345看片","name": "🐼345┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"},
@@ -114,17 +112,7 @@
       "filterable": 0,
       "ext": "http://rzys.xyz"
     },
-        {
-      "key": "Xinsj",
-      "name": "🐼视觉┃影视",
-      "type": 3,
-      "api": "csp_Xinsj",
-       "jar":" https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
-    },
+  
        {
             "key" : "js_v2-yj",
             "name" :"🐼玉米┃影视",
@@ -132,13 +120,7 @@
             "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/遇见.js"
         },
-              {
-      "key": "畅梦",
-      "name": "🐼畅梦┃影视",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
-   },
+ 
  {
             "key": "厂长",
             "name": "🐼厂长┃影视",
@@ -236,13 +218,7 @@
             "ext": "http://guan.yy365.vip/api.php/app/"
         },
        
-        {
-            "key": "迷你库",
-            "name": "🐼迷你┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "http://www.miniku.cc/xgapp.php/v1/"
-        },
+      
         {
             "key": "南瓜",
             "name": "🐼南瓜┃影视",
@@ -585,7 +561,7 @@
         },
 
 
-{"key":"apv2_瑞丰","name":"迷你库","type":3,"api":"csp_AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v2/"},
+
 
 
 
@@ -672,7 +648,7 @@
 
 {"key":"网盘搜索","name": "🍳网盘搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./jar/ali.jar"},
 
-{"key": "csp_XYQHiker_播视童趣","name":"🪆👩‍🏫播视童趣","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/MqVLFy/%E6%92%AD%E8%A7%86%E7%AB%A5%E8%B6%A3.json"}, 
+{"key": "csp_XYQHiker_播视童趣","name":"👩‍🏫播视童趣","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/MqVLFy/%E6%92%AD%E8%A7%86%E7%AB%A5%E8%B6%A3.json"}, 
  {"key":"csp_Bili幼儿","name":"👩‍🏫哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://pan.shangui.cc/f/QGqECm/%E5%B9%BC%E5%84%BF%E4%B9%90%E5%9B%AD.json"},
  {"key":"csp_Bili少儿","name":"👩‍🏫哔哩少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://pan.shangui.cc/f/q8jxTG/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"},
         {"key":"csp_Bili小学","name":"👩‍🏫哔哩小学","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://pan.shangui.cc/f/aa65H2/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"},
