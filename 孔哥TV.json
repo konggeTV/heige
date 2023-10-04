@@ -90,7 +90,7 @@
 
 {"key":"HDmoli","name":"🐼魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/HDmoli.json"},
 
-{"key":"策驰影院","name":"🐼策驰影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/cechi.json"},
+
 
 {"key":"石榴影视","name": "🐼石榴影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/shiliu.json"},
 {"key":"可乐","name":"🐼可乐","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/cokemv.js"},
