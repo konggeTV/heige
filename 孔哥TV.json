@@ -177,7 +177,7 @@
 {"key":"csp_Bliyc学前教育","name":"🅱️学前教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%ad%a6%e5%89%8d%e5%84%bf%e7%ab%a5.txt"},
 {"key":"csp_Bliyc小学教育","name":"🅱️小学教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%ad%a6%e5%89%8d%e5%84%bf%e7%ab%a5.txt"},
 {"key":"csp_Bliyc初中教育","name":"🅱️初中教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%88%9d%e4%b8%ad%e5%ad%a6%e5%a0%82.txt"},
-{"key":"csp_Bliyc高中教育","name":"🅱️高中教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e9%ab%98%e4%b8%ad%e5%ad%a6%e5%a0%82.txt"}
+{"key":"csp_Bliyc高中教育","name":"🅱️高中教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e9%ab%98%e4%b8%ad%e5%ad%a6%e5%a0%82.txt"},
 
 {"key":"石榴影视","name": "🐼石榴影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/shiliu.json"},
 {"key":"可乐","name":"🐼可乐","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/cokemv.js"},
