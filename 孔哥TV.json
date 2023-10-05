@@ -57,12 +57,11 @@
 
 {"key": "384影视","name": "🐼384┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/影视.json"},
 
-{"key": "探探","name": "影探┃APP","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn"},
-{"key": "csp_woggcli","name": "俊玩偶.T4","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"},
-{"key": "360弹幕","name": "360｜弹幕","type": 3,"api": "csp_Sp360","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.597},"jar": "http://shuyuan.miaogongzi.net/shuyuan/1696303211.txt","ext": {"danmu": true}},
+
+
+
 {"key": "荐片弹幕","name": "荐片｜弹幕","type": 3,"api": "csp_Jianpian","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.597},"jar": "http://shuyuan.miaogongzi.net/shuyuan/1696303211.txt","ext": {"danmu": true}},
-{"key": "玩偶弹幕","name": "玩偶｜弹幕","type": 3,"api": "csp_Wogg","searchable": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": {"token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","filter": "http://127.0.0.1:9978/file/TVBox/MaooXB2/wogg.json","danmu": true},"jar": "http://shuyuan.miaogongzi.net/shuyuan/1696303211.txt"},
-{"key":"csp_WoGG","name":"玩偶┃4K","type":3,"api":"csp_WoGG","playerType":2,"style": {"type": "rect","ratio": 1.597},"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$https://wogg.xyz/"},
+
 
 
 
