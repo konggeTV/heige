@@ -86,21 +86,7 @@
 
 {"key":"双十电影","name":"🐼双十电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://weixine.net/sub/shuangshi.json"},
 {"key":"饭团影视","name":"🐼饭团高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://weixine.net/sub/fantuan.json"},
-
-
-{"key":"爱看机器人","name":"🐼爱看机器","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/ikanbot.js"},
-{"key":"明帝影视","name":"🐼明帝影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
-
-{"key":"大豆高清","name":"🐼大豆高清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dadou.cm/api.php/app/"},
-{"key":"灰太狼","name":"🐼灰太狼","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/htl.json"},
-
-
-{"key":"HDmoli","name":"🐼魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/HDmoli.json"},
-
-{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_EEEDY","name":"❄3E飘花","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bdys01","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"🐼快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"mtv_pc_利奥影视","name":"爬虫┃利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_快看影视","name":"爬虫┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -108,76 +94,33 @@
 {"key":"mtv_pc_低端影视","name":"爬虫┃低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_樱花动漫","name":"爬虫┃樱花动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_酷云官方","name":"爬虫┃酷云官方","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_直播合集","name":"直播┃直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_app_贵宾影院","name":"  💯贵宾影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
 
-{"key":"csp_app_贵宾影院","name":"  🍭贵宾影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
-{"key":"csp_app_看剧吧","name":"  🍭看剧吧","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"},
-{"key":"csp_xml_xinlang","name":"  🍕新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_量子资源","name":"  🍕量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_光速资源","name":"  🍕光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_CK资源","name":"  🍕CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_红牛资源","name":"  🍕红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_百度资源","name":"  🍕百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_飞速采集","name":"  🍕飞速采集","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_无尽资源","name":"  🍕无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_U酷资源","name":"  🍕U酷 资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_天空资源","name":"  🍕天空资源m3u8","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_卧龙资源","name":"  🍕卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_39影视","name":"  🍲3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_天堂资源","name":"  🍜天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_飘花资源","name":"   🍜飘花资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_影图资源","name":"   🍜影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_app_天天视频","name":"   🍜天天视频","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+{"key":"csp_xml_xinlang","name":"  💯新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_量子资源","name":"  💯量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_光速资源","name":"  💯光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_CK资源","name":"  💯CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_红牛资源","name":"  💯红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_百度资源","name":"  💯百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_飞速采集","name":"  💯飞速采集","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_无尽资源","name":"  💯无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_U酷资源","name":"  💯U酷 资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_天空资源","name":"  💯天空资源m3u8","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_卧龙资源","name":"  💯卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_39影视","name":"  💯3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_天堂资源","name":"  💯天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_飘花资源","name":"   💯飘花资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_影图资源","name":"   💯影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
-{"key": "csp_xp_yinfans","name": "  ⛪音范丝4K(300+)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/mabox/box/raw/branch/main/json/yinfans.json"},
-{"key":"csp_xp_dm84","name":"  🚌动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/dm84.json"},
-{"key":"csp_xp_dmw","name":"  🌅动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/dmw.json"},
-{"key":"csp_xp_jLgyy","name":"  💯蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/lgyy.json"},
+
+
+
 {"key":"csp_xp_vip1280","name":"  💯VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/vip1280.json"},
 {"key":"csp_xp_lezhutv","name":"  💯乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/lezhutv.json"},
-{"key":"csp_xpath_球迷直播","name":"球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%90%83%e8%bf%b7%e7%9b%b4%e6%92%ad.json"},
 
-{"key":"csp_xbb_茶杯狐","name":"  🗼茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%8c%b6%e6%9d%af%e7%8b%90.json"},
-{"key":"csp_xbb_sobods","name":"  🏰真不卡sobods","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%9c%9f%e4%b8%8d%e5%8d%a1sobods.json"},
-{"key":"csp_xbb_zbkyy2","name":"  🏰真不卡影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%9c%9f%e4%b8%8d%e5%8d%a1zbkyy2.json"},
-{"key":"csp_xbb_Nike影视","name":"  🎡Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/Nike%e5%bd%b1%e8%a7%86%e7%bd%91.json"},
-{"key":"csp_xbb_奇优影院ns","name":"  🏭奇优影院(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%a5%87%e4%bc%98%e5%bd%b1%e9%99%a2ns.json"}, 
-{"key":"csp_xbb_骚火VIP","name":"  🥪骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/shdy.json"},
-{"key":"csp_xbb_速搜影视","name":"  🥩速搜影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e9%80%9f%e6%90%9c%e5%bd%b1%e8%a7%86.json"}, 
-{"key":"csp_xbb_蓝光影视","name":"  🥕蓝光影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%93%9d%e5%85%89%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xbb_达达龟","name":"  🥕达达龟","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%be%be%e8%be%be%e9%be%9f.json"},
-{"key":"csp_xbb_全能影视","name":" 🍍全能影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/mabox/box/raw/branch/main/json/%e5%85%a8%e8%83%bd%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xbb_稀饭影视","name":" 🍍稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%a8%80%e9%a5%ad%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xbb_维奇动漫","name":" 🍍维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%bb%b4%e5%a5%87%e5%8a%a8%e6%bc%ab.json"},
-{"key":"csp_xbb_去看吧","name":" 🍍看吧动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%8e%bb%e7%9c%8b%e5%90%a7.json"},
-{"key":"csp_xbb_348电影网","name":" 🍍348电影网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/348%e7%94%b5%e5%bd%b1%e7%bd%91.json"},
-{"key":"csp_xbb_奈菲影院","name":" 🍉奈菲影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%a5%88%e8%8f%b2%e5%bd%b1%e9%99%a2.json"},
-{"key":"csp_xbb_LIBVIO","name":" 🍉LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/LIBVIO.json"},
-{"key":"csp_xbb_克拉TV","name":" 🍉克拉TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%85%8b%e6%8b%89TV.json"},
-{"key":"csp_xbb_乌龟影院","name":" 🍉乌龟影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e4%b9%8c%e9%be%9f%e5%bd%b1%e9%99%a2.json"},
-{"key": "csp_xbb_神马tv8","name":" 🍉神马tv8","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/mabox/box/raw/branch/main/json/%e7%a5%9e%e9%a9%actv8.json"},
-{"key":"csp_xbb_花猫TV","name":" 🍉花猫TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%8a%b1%e7%8c%abTV.json"},
-{"key":"csp_xbb_hdmoli","name":" 🍇hdmoli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/hdmoli.json"},
-{"key":"csp_xbb_炫猫影视","name":" 🍇炫猫影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%82%ab%e7%8c%ab%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xbb_骚火电影","name":" 🍇骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1.json"},
-{"key":"csp_xbb_如如影视","name":" 🍇如如影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%a6%82%e5%a6%82%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xbb_看一看影视","name":" 🍇看一看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xbb_789影视","name":" 🍇789影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/789%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xbb_人人影视","name":" 🍇人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e4%ba%ba%e4%ba%ba%e5%bd%b1%e8%a7%86.json"},
-{"key":"csp_xbb_红领巾","name":" 🍓红领巾","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%ba%a2%e9%a2%86%e5%b7%be.json"},
-{"key":"csp_xbb_老电影","name":" 🍓老电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%80%81%e7%94%b5%e5%bd%b1.json"},
-{"key":"csp_xbb_139影视","name":" 🍓139影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/139%e5%bd%b1%e8%a7%86.json"}, 
 
-{"key":"学习园地","name":"📝学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%ad%a6%e4%b9%a0%e5%9b%ad%e5%9c%b0.json"},
-{"key":"软件","name":"📚软件教程","api":"csp_Bili","type":3,"filterable":1,"quickSearch":0,"searchable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
-{"key":"儿童","name":"🐯儿童乐园","api":"csp_Bili","type":3,"filterable":1,"quickSearch":0,"searchable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%84%bf%e7%ab%a5%e4%b9%90%e5%9b%ad.json"},
-{"key":"音乐","name":"🎤音乐现场","api":"csp_Bili","type":3,"filterable":1,"quickSearch":0,"searchable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e9%9f%b3%e4%b9%90%e7%8e%b0%e5%9c%ba.json"},
-{"key":"热舞","name":"🎤女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%a5%b3%e5%9b%a2%e7%83%ad%e8%88%9e.json"},
-{"key":"美食","name":"美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%be%8e%e9%a3%9f%e5%90%88%e9%9b%86.json"},
-{"key":"csp_Bliyc学前教育","name":"🅱️学前教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%ad%a6%e5%89%8d%e5%84%bf%e7%ab%a5.txt"},
-{"key":"csp_Bliyc小学教育","name":"🅱️小学教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%ad%a6%e5%89%8d%e5%84%bf%e7%ab%a5.txt"},
-{"key":"csp_Bliyc初中教育","name":"🅱️初中教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%88%9d%e4%b8%ad%e5%ad%a6%e5%a0%82.txt"},
-{"key":"csp_Bliyc高中教育","name":"🅱️高中教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e9%ab%98%e4%b8%ad%e5%ad%a6%e5%a0%82.txt"},
+
+
 
 {"key":"石榴影视","name": "🐼石榴影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/shiliu.json"},
 {"key":"可乐","name":"🐼可乐","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/cokemv.js"},
@@ -727,15 +670,25 @@
 {"key":"找资源","name": "🍳找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "null$$$yunshuche$$$11223344","jar":"./jar/ali.jar"},
 
 {"key":"网盘搜索","name": "🍳网盘搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./jar/ali.jar"},
+{"key":"美食","name":"美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%be%8e%e9%a3%9f%e5%90%88%e9%9b%86.json"},
+{"key":"美食","name":"美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%be%8e%e9%a3%9f%e5%90%88%e9%9b%86.json"},
 
+{"key":"美食","name":"美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%be%8e%e9%a3%9f%e5%90%88%e9%9b%86.json"},
+
+
+
+{"key":"学习园地","name":"👩‍🏫学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%ad%a6%e4%b9%a0%e5%9b%ad%e5%9c%b0.json"},
 {"key": "csp_XYQHiker_播视童趣","name":"👩‍🏫播视童趣","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/MqVLFy/%E6%92%AD%E8%A7%86%E7%AB%A5%E8%B6%A3.json"}, 
  {"key":"csp_Bili幼儿","name":"👩‍🏫哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://pan.shangui.cc/f/QGqECm/%E5%B9%BC%E5%84%BF%E4%B9%90%E5%9B%AD.json"},
  {"key":"csp_Bili少儿","name":"👩‍🏫哔哩少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://pan.shangui.cc/f/q8jxTG/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"},
         {"key":"csp_Bili小学","name":"👩‍🏫哔哩小学","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://pan.shangui.cc/f/aa65H2/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"},
         {"key":"csp_Bili初中","name":"👩‍🏫哔哩初中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://pan.shangui.cc/f/EDXJcD/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
-        {"key":"csp_Bili高中","name":"👩‍🏫哔哩高中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://pan.shangui.cc/f/2EKySx/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"}
-
-    
+        {"key":"csp_Bili高中","name":"👩‍🏫哔哩高中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://pan.shangui.cc/f/2EKySx/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
+{"key":"csp_Bliyc学前教育","name":"🅱️学前教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%ad%a6%e5%89%8d%e5%84%bf%e7%ab%a5.txt"},
+{"key":"csp_Bliyc小学教育","name":"🅱️小学教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%ad%a6%e5%89%8d%e5%84%bf%e7%ab%a5.txt"},
+{"key":"csp_Bliyc初中教育","name":"🅱️初中教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%88%9d%e4%b8%ad%e5%ad%a6%e5%a0%82.txt"},
+{"key":"csp_Bliyc高中教育","name":"🅱️高中教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e9%ab%98%e4%b8%ad%e5%ad%a6%e5%a0%82.txt"},
+ {"key":"儿童","name":"🅱️儿童乐园","api":"csp_Bili","type":3,"filterable":1,"quickSearch":0,"searchable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e5%84%bf%e7%ab%a5%e4%b9%90%e5%9b%ad.json"}
 
 
 
