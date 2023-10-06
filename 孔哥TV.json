@@ -612,8 +612,8 @@
       "key": "drpy_js_JustLive",
       "name": "直播 | JustLive",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/JustLive.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/JustLive.js"
     },
     
     {
