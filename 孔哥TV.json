@@ -1,5 +1,4 @@
 
-
 {
 
 "spider":"./jar/xhkw1.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
@@ -612,58 +611,7 @@
       "ext": "./js/JustLive.js"
     },
     
-    {
-      "key": "Czsapp",
-      "name": "厂长┃直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.cz01.pro/"
-    },
   
-        {
-      "key": "毛驴",
-      "name": "毛驴┃直连",
-      "type": 3,
-      "api": "csp_MLYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
-        {
-      "key": "Xinsj",
-      "name": "码上👓饭-👓视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
-    },
-    {
-      "key": "Auete",
-      "name": "奥特┃直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://www.aueteys.com/"
-    },
-    {
-      "key": "zxzj",
-      "name": "在线┃直连",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
    
 {"key":"drpy_js_斗鱼直播","name":"🐼斗鱼直播┃影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"},
 
@@ -680,7 +628,7 @@
 
    {
       "key": "MV_vod",
-      "name": "码上👓饭-🎶明星┃MV",
+      "name": "🐲明星┃MV",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "style": {
