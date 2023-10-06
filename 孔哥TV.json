@@ -608,6 +608,36 @@
       "ext": "./json/直播仓.json"
     },
 
+
+       {
+      "key": "drpy_js_JustLive",
+      "name": "码上👓道-直播 | JustLive[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/JustLive.js"
+    },
+    {
+      "key": "Czsapp",
+      "name": "码上👓饭-📔厂长┃直连",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.cz01.pro/"
+    },
+    {
+      "key": "Mino",
+      "name": "码上👓饭-👻Mino┃App",
+      "type": 3,
+      "api": "csp_Appto",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
+    },
+
 {"key":"drpy_js_斗鱼直播","name":"🐼斗鱼直播┃影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"},
 
 {"key":"drpy_js_短视频","name":"🐲聚合|短视频","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/短视频.js"},
