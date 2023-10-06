@@ -49,15 +49,6 @@
 
   
     {
-      "key": "YGP",
-      "name": "码上👓饭-🚀叨观荐影┃速递",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "Czsapp",
       "name": "厂长┃直连",
       "type": 3,
@@ -101,7 +92,7 @@
     },
      {
       "key": "Xinsj",
-      "name": "码上👓饭-👓视觉┃直连",
+      "name": "视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -150,22 +141,14 @@
     },
       {
       "key": "DiDuan",
-      "name": "码上👓饭-⏮️低端┃直连",
+      "name": "低端┃直连",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "77",
-      "name": "码上👓饭-👒七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+  
     {
       "key": "csp_Nmys",
       "name": "农民┃直连",
@@ -234,6 +217,114 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+        {
+      "key": "csp_BuLei",
+      "name": "码上👓宝-🍩布雷蓝光",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
+    },
+    {
+      "key": "csp_appys_如意4K",
+      "name": "码上👓宝-🐵️如意4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.maoyingshi.cc/api.php/app/",
+      "playUrl": "json:http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
+    },
+    {
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "码上👓宝-🤖爱看4k",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/玩偶哥哥.json",
+      "jar": "./lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+    },
+    {
+      "key": "csp_XYQHikerlg4k",
+      "name": "码上👓宝-💋云盘4k",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/4KHDR.json",
+      "jar": "./lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+    },
+    {
+      "key": "csp_XYQHiker4klg",
+      "name": "码上👓宝-💅🏻原盘4k",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/中国蓝光网.json",
+      "jar": "./lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+    },
+    {
+      "key": "csp_yt",
+      "name": "码上👓宝-🥳YT4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.lfytv.cn/api.php/app/"
+    },
+    {
+      "key": "csp_饭团",
+      "name": "码上👓宝-🦄饭团4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/饭团.json"
+    },
+    {
+      "key": "csp_dbg",
+      "name": "码上👓宝-👺量子4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/大表哥影院.json",
+      "jar": "./lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+    },
+    {
+      "key": "csp_XYQHiker_‍dyx",
+      "name": "码上👓宝-🚢电影磁力4k",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/dyg.json",
+      "jar": "./lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+    },
+    {
+      "key": "csp_xpath_yinfans",
+      "name": "码上👓宝-💥音范丝4K",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/音范丝.json"
     },
 
 {"key": "荐片弹幕","name": "荐片｜弹幕","type": 3,"api": "csp_Jianpian","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.597},"jar": "http://shuyuan.miaogongzi.net/shuyuan/1696303211.txt","ext": {"danmu": true}},
