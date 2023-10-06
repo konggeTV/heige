@@ -8,7 +8,8 @@
 {
 
 
-"spider":"",
+"spider": "./custom_spider_stable.jar;md5;C780FA00CBCC2F49F4E446F225A155E7",
+
 
 
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
