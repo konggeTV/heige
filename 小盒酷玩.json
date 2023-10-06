@@ -159,16 +159,7 @@
       "changeable": 1,
       "ext": "./lib/nmys.json"
     },
-    {
-      "key": "Cokemv",
-      "name": "可乐┃直连",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
    
     {
       "key": "kuaikan",
@@ -191,7 +182,7 @@
     },
 
 
-{"key": "猫咪","name": "🐼猫咪┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
+
 
 {"key": "厂长","name": "🐼厂长┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/厂长.json"},
 
