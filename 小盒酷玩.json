@@ -27,7 +27,7 @@
 {"key":"阿里云盘网","name":"🐼云盘网┃影视","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/aliyunpan.json"},
 
 {"key":"阿里云盘网","name":"🚛云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/aliyunpan.json"},
-{"key":"6V磁力","name":"🚛6V磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/6v.json"},
+{"key":"6V磁力","name":"🚛6V磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/yNKASK/ysc6v.json"},
 {"key":"电影港","name":"🚛DYG磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/dyg.json"},
 {"key":"4KHDR","name":"🚛HDR磁┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/4KHDR.json"},
 
