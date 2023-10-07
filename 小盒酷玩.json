@@ -8,7 +8,7 @@
 {
 
 
-"spider": "https://pan.shangui.cc/f/DlNBUz/custom_spider_stable.jar",
+"spider": "https://pan.shangui.cc/f/kzZpsR/custom_spider_stable(1).jar",
 
 
 
@@ -25,6 +25,16 @@
 {"key": "豆瓣","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {"key":"阿里云盘网","name":"🐼云盘网┃影视","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/aliyunpan.json"},
+
+{"key":"阿里云盘网","name":"云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/aliyunpan.json"},
+{"key":"6V磁力","name":"6V磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/新6V.json"},
+{"key":"电影港","name":"DYG磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/电影港.json"},
+{"key":"4KHDR","name":"HDR磁┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},
+
+
+
+
+
 
 {
       "key": "xml_玩偶",
