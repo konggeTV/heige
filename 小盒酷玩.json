@@ -26,7 +26,18 @@
 
 {"key":"阿里云盘网","name":"🐼云盘网┃影视","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/aliyunpan.json"},
 
-
+{
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
 
 
 
@@ -69,7 +80,7 @@
     
     {
       "key": "毛驴",
-      "name": "┃直连",
+      "name": "毛驴┃直连",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
@@ -179,7 +190,50 @@
       "ext": "https://www.ysgc1.cc/"
     },
 
-
+ {
+      "key": "乐猪",
+      "name": "🐼乐猪影视｜追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/乐猪.json"
+    },
+    {
+      "key": "臭蛋蛋",
+      "name": "🐼臭蛋影视｜追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/臭蛋蛋.json"
+    },
+    {
+      "key": "素白",
+      "name": "🐼素白┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/素白白.json"
+    },
+    {
+      "key": "虎虎",
+      "name": "🐼虎虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/虎虎.json"
+    },
+        {
+      "key": "csp_SP360",
+      "name": "🐼360┃官源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/360影视.json"
+    },
 
 
 {"key": "厂长","name": "🐼厂长┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/厂长.json"},
@@ -190,6 +244,36 @@
 
 {"key":"mino4K","name":"mino4K┃影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
 
+{
+      "key": "追忆影视",
+      "name": "追忆影视",
+      "type": 3,
+      "api": "csp_Appto",
+      "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+    },
+    {
+      "key": "橘子影视",
+      "name": "橘子影视",
+      "type": 3,
+      "api": "csp_Appto",
+      "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"
+    },
+    {
+      "key": "喵喵影视",
+      "name": "喵喵影视",
+      "type": 3,
+      "api": "csp_Appto",
+      "ext": "u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="
+    },
+    {
+      "key": "布蕾影视",
+      "name": "布蕾影视",
+      "type": 3,
+      "api": "csp_Appto",
+      "ext": "VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTY4Ny9hcHB0by92MQ"
+    },
+
+
     {"key": "csp_黄黄",
       "name": "🐼黄黄┃影视",
       "api": "csp_AppYsV2",
@@ -198,6 +282,35 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+        {
+      "key": "熊猫",
+      "name": "🐼｜熊猫｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "<p>&&</p>",
+        "主演": "主演：class=\"module-info-item-title\">&&</span>",
+        "导演": "导演：&&</span>",
+        "影片年代": "年份：&&</li>",
+        "影片地区": "地区：&&</li>",
+        "影片类型": "类型：&&</li>",
+        "影片状态": "更新：&&</span>",
+        "数组": "<a&&</div></div></a>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "<div class=\"module-item-note\">&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[排序:索尼>快看]",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>🐼共]+集",
+        "播放数组": "<div class=\"module-play-list\">&&</div>",
+        "播放标题": "<span>&&</span>",
+        "播放列表": "<a&&</a>",
+        "播放链接": "href=\"&&\"",
+        "分类": "电影&电视剧&综艺&动漫",
+        "分类值": "52&69&77&75",
+        "分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
     },
     
     {
@@ -252,7 +365,26 @@
 
 {"key": "hd魔力","name": "🐼魔力┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/hd魔力.js"},
 
-
+  {
+      "key": "新6V",
+      "name": "🐼新6V磁力┃影视",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "csp_SP33",
+      "name": "🐼三┃解析影视",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
 
 {"key": "六度","name": "🐼六度┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/六度.js"},
 
