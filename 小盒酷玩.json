@@ -58,7 +58,7 @@
     },
   {
       "key": "csp_AppYsV2_玉米",
-      "name": "🐼玉米┃影视",
+      "name": "🐼玉米┃影视(AppYsV2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "playUrl": "http://61.147.93.21:8090/index.php?url=",
@@ -70,7 +70,7 @@
     },
 {
       "key": "路人",
-      "name": "路人┃秒播",
+      "name": "路人┃秒播(AppYsV2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -78,6 +78,37 @@
       "filterable": 1,
       "ext": "http://mp4.ghlyys.com:916/api.php/app/",
       "jar":"https://pan.shangui.cc/f/1xRwuw/Hk.jar"
+    },
+{
+      "key": "csp_AppYsV2_大鹏",
+      "name": "大鹏┃TV(AppYsV2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.jialiangos.com/api.php/app/"
+    },
+    {
+      "key": "csp_XBPQ_好戏",
+      "name": "好戏┃TV(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/好戏.json"
+    },
+    {
+      "key": "大鹏",
+      "name": "嘉靓┃TV(AppYsV2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api.jialiangos.com:88/api.php/app/"
     },
 
   
@@ -105,7 +136,7 @@
     },
     {
       "key": "橘子",
-      "name": "橘子┃直连",
+      "name": "橘子┃直连(Appto)",
       "type": 3,
       "api": "csp_Appto",
       "searchable": 1,
