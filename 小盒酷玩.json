@@ -51,18 +51,7 @@
       "filterable": 1
     },
  
-    {
-      "key": "yc",
-      "name": "4KHDR站-B",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "https://pan.shangui.cc/f/GDxouz/xry.jar"
-    },
+    
    
     {
       "key": "PanSou",
