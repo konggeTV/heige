@@ -41,12 +41,6 @@
       }
       
       },
-
-
-
-
-
-
 {
       "key": "xml_玩偶",
       "name": "🐼玩偶┃哥哥",
@@ -56,6 +50,106 @@
       "quickSearch": 1,
       "filterable": 1
     },
+      {
+      "key": "YYCMSA",
+      "name": "1080P站-AppYsV2",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yycms.77ev.cn/api.php/app/"
+    },
+    {
+      "key": "me_qq",
+      "name": "1080P站-QQ",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://119.91.31.224:89/itvbox/qq.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "4KHDR站-WoGG",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "yc",
+      "name": "4KHDR站-Hdhive",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+      "jar": "https://pan.shangui.cc/f/GDxouz/xry.jar"
+    },
+    {
+      "key": "索尼",
+      "name": "4KHDR站-索尼",
+      "type": 1,
+      "playerType": 2,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "记录片",
+        "海外剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "足球",
+        "影视解说",
+        "国产动漫"
+      ]
+    },
+    {
+      "key": "PanSou",
+      "name": "4KHDR站-PanSou",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "4KHDR站-PanSearch",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    }
   {
       "key": "csp_AppYsV2_玉米",
       "name": "🐼玉米┃影视(AppYsV2)",
