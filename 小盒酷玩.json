@@ -50,9 +50,10 @@
       "quickSearch": 1,
       "filterable": 1
     },
-      {
+ 
+    {
       "key": "YYCMSA",
-      "name": "1080P站-AppYsV2",
+      "name": "1080P站-C",
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
@@ -63,7 +64,7 @@
     },
     {
       "key": "me_qq",
-      "name": "1080P站-QQ",
+      "name": "1080P站-D",
       "type": 1,
       "playerType": 2,
       "api": "http://119.91.31.224:89/itvbox/qq.php",
@@ -72,7 +73,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "4KHDR站-WoGG",
+      "name": "4KHDR站-A",
       "type": 3,
       "playerType": 1,
       "api": "csp_WoGG",
@@ -83,7 +84,7 @@
     },
     {
       "key": "yc",
-      "name": "4KHDR站-Hdhive",
+      "name": "4KHDR站-B",
       "type": 3,
       "playerType": 1,
       "api": "csp_Hdhive",
@@ -93,10 +94,10 @@
       "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
       "jar": "https://pan.shangui.cc/f/GDxouz/xry.jar"
     },
-
+   
     {
       "key": "PanSou",
-      "name": "4KHDR站-PanSou",
+      "name": "4KHDR站-S",
       "type": 3,
       "playerType": 1,
       "api": "csp_PanSou",
@@ -107,7 +108,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "4KHDR站-PanSearch",
+      "name": "4KHDR站-H",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -115,6 +116,7 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
+
   {
       "key": "csp_AppYsV2_玉米",
       "name": "🐼玉米┃AppYsV2",
