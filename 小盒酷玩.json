@@ -400,6 +400,18 @@
         "分类url": "https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
     },
+     {
+    "key": "AppYs_南瓜",
+      "name": "┃南瓜┃2K",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+    },  
+
     
     {
       "key": "csp_appys_如意4K",
