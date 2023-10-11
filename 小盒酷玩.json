@@ -344,15 +344,6 @@
     },
 
 
-    {"key": "csp_黄黄",
-      "name": "🐼黄黄┃AppYsV2",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
         {
       "key": "熊猫",
       "name": "🐼｜熊猫｜XBPQ",
@@ -384,7 +375,7 @@
     },
      {
     "key": "AppYs_南瓜",
-      "name": "┃南瓜┃2K",
+      "name": "南瓜┃AppYs",
       "type": 3,
       "playerType": 2,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
@@ -510,7 +501,7 @@
 {"key":"csp_xp_vip1280","name":"💯VIP电影┃XPath","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/vip1280.json"},
 {"key":"csp_xp_lezhutv","name":"💯乐猪TV┃XPathMac","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/lezhutv.json"},
 {"key":"忆梦","name":"💯忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
+{"key":"每天看看","name":"💯每天看看(优)","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"腾讯资源","name":"💯腾讯资源(切)","type":1,"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"💯红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -522,6 +513,7 @@
 {"key":"6U资源","name":"💯U资源(官)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"步步高资源","name":"💯步步高资源(切)","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1},
 {"key":"1080资源库","name":"💯1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
+
 {"key":"每天看看","name":"💯每天看看(优)","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"石榴影视","name": "🐼石榴影视┃XBPQ","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/shiliu.json"},
