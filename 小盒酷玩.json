@@ -1,7 +1,6 @@
 
 
 
-
 {
 
 
@@ -1273,7 +1272,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://gitee.com/kong-qingyao/live-streaming-direct/raw/master/%E7%9B%B4%E6%92%AD%E4%BB%93.txt",
+		    "url": "https://gitlab.com/1107606785/konggetv/-/raw/main/%E5%AD%94%E5%93%A5TV.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
