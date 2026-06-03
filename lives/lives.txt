@@ -1,5 +1,5 @@
 { "urls": [
-{ "name": "轮播", "type": 1,"url": "./lives/轮播.txt"},
+{ "name": "👖轮播", "type": 1,"url": "https://raw.githubusercontent.com/konggeTV/heige/refs/heads/main/lives/%E8%BD%AE%E6%92%AD.txt"},
 
 { "name": "👖裤佬TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 
@@ -9,6 +9,6 @@
 
 { "name": "👖DS9","type": 1,"url": "https://d.kstore.dev/download/12441/ds9.txt"},
 
-{ "name": "👖测试","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"}
+{ "name": "👖测试","type": 1,"url": "https://raw.giteeusercontent.com/KKK123CCC/tv/raw/master/jiekou.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJqaWVrb3UudHh0IiwicGlkIjo0MjMyNTA1Miwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by0xMHQtMDM5IiwicnAiOiJyZXBvcy8wYS82Yi8wYTZiNWM0NDk0OGMyODk1YjIwNDA1ZmJhYjdmNTM3NjVlMWZhNDBlMGM2MTE5OTJiY2ZmYTBhNjY2ZmY3N2Y2LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzgwNDgxNDAwfQ&signature=0VMv4aCsuIBXt4eyDicWeI29vDPm2BmLVC4NJ0f21TQ"}
 
 ]}
