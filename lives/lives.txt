@@ -1,6 +1,6 @@
-{ "urls": [{ "url": "file://tvboxqq/饭太硬/lives/lives.txt", "name": "饭太硬[本地直播]" },
+{ "urls": [{ "url": "./lives/轮播.txt", "name": "饭太硬[本地直播]" },
 
-{ "url": "file://tvboxqq/小米/lives/lives.txt", "name": "小米" },
+{ "name": "👖裤佬TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 
 { "url": "file://tvboxqq/肥猫/api.json", "name": "肥猫[本地直播]" },
 
