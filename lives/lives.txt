@@ -66,6 +66,13 @@
     
     },
 
+   {
+        "name": "尘墨",
+        "type": 0,
+        "url": "https://52xiaobai.cn/ceshi/zb.php"
+     
+    },
+
 { "name": "👖澜TV直播","type": 1,"url": "https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt"},
 
 { "name": "👖DS9","type": 1,"url": "https://d.kstore.dev/download/12441/ds9.txt"},
