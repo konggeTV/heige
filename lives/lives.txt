@@ -29,6 +29,42 @@
         "url": "https://pan.szfx.top/down.php/dcb0cc6a6935b5e62b2659eba6718471.txt"
 
     },
+  {
+        "name": "yuan",
+        "type": 0,
+        "url": "http://wangziduoqing.com/yuan/zb.txt"
+      
+    },
+    {
+        "name": "问号",
+        "type": 0,
+        "url": "https://mpimg.cn/down.php/e29ec89f78ad259cd1b00d8500144330.txt"
+
+    },
+    {
+        "name": "应该能看",
+        "type": 0,
+        "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
+   
+    },
+    {
+        "name": "潇雨萌萌",
+        "type": 0,
+        "url": "https://ds65.tv1288.xyz"
+    
+    },
+    {
+        "name": "潇雨萌萌(限时看)",
+        "type": 0,
+        "url": "http://43.251.226.110:9991/zwyrj3"
+     
+    },
+    {
+        "name": "全球",
+        "type": 0,
+        "url": "http://xingioe.top/down.php/82d0754d79de3be03e9b63e4d2d96818.jpg"
+    
+    },
 
 { "name": "👖澜TV直播","type": 1,"url": "https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt"},
 
