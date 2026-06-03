@@ -2,25 +2,12 @@
 
 { "name": "👖裤佬TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 
-{ "url": "file://tvboxqq/肥猫/api.json", "name": "肥猫[本地直播]" },
+{ "name": "👖风云TV直播","type": 1,"url": "http://iptv.4666888.xyz/FYTV.txt"},
 
-{ "url": "file://tvboxqq/王二小/api.json", "name": "王二小[本地]" },
+{ "name": "👖澜TV直播","type": 1,"url": "https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt"},
 
-{ "url": "file://tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿[本地]" },
+{ "name": "👖DS9","type": 1,"url": "https://d.kstore.dev/download/12441/ds9.txt"},
 
-{ "url": "file://tvboxqq/潇洒/api.json", "name": "潇洒[本地]" },
+{ "name": "👖测试","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 
-{ "url": "file://tvboxqq/凯少爷/lives/lives.txt", "name": "凯少爷[本地直播]" },
-file://tvboxqq/凯少爷/lives.txt
-
-{ "url": "file://tvboxqq/小虎斑/api.json", "name": "小虎斑[本地]" },
-
-{ "url": "file://tvboxqq/欧歌/api.json", "name": "欧歌[本地]" },
-
-{ "url": "file://tvboxqq/南风/api.json", "name": "南风[本地]" },
-
-{ "url": "file://tvboxqq/香雅情/api.json", "name": "香雅情[本地]" },
-
-{ "url": "file://tvboxqq/少儿频道/api.json", "name": "少儿频道[本地]" },
-
-{ "url": "file://tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐[本地]" }]}
+]}
