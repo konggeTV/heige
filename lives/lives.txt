@@ -5,6 +5,13 @@
 
 { "name": "👖风云TV直播","type": 1,"url": "http://iptv.4666888.xyz/FYTV.txt"},
 
+{
+        "name": "夜空",
+        "type": 0,
+        "url": "https://pan.szfx.top/down.php/4f5dad27633e1293d7ef2317ee9c801e.txt"
+    
+    },
+
 { "name": "👖澜TV直播","type": 1,"url": "https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt"},
 
 { "name": "👖DS9","type": 1,"url": "https://d.kstore.dev/download/12441/ds9.txt"},
