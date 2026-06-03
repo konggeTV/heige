@@ -8,6 +8,6 @@
 
 { "name": "👖DS9","type": 1,"url": "https://d.kstore.dev/download/12441/ds9.txt"},
 
-{ "name": "👖测试","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
+{ "name": "👖测试","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"}
 
 ]}
