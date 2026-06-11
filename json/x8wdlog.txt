@@ -1,0 +1,13 @@
+2026-04-27 11:40:59 27554 27554 D/WirelessAdbManager: init 1.4.2
+2026-04-27 11:40:59 27554 27554 E/WirelessAdbManager: searchTlsTcp
+2026-04-27 11:40:59 27554 27554 E/WirelessAdbManager: start adbmns
+2026-04-27 11:40:59 27554 27554 D/WirelessAdbManager: init okay
+2026-04-27 11:40:59 27554 27606 E/AdbMdns: onDiscoveryStarted _adb-tls-connect._tcp
+2026-04-27 11:41:02 27554 27554 E/WirelessAdbSetupGuideActivity: gotoWifiSetting
+2026-04-27 11:41:07 27554 27554 E/WirelessAdbSetupGuideActivity: gotoNotificationSetting
+2026-04-27 11:41:11 27554 27554 E/WirelessAdbSetupGuideActivity: goto Open WifiDebug
+2026-04-27 12:01:29 11992 11992 D/WirelessAdbManager: init 1.4.2
+2026-04-27 12:01:29 11992 11992 E/WirelessAdbManager: searchTlsTcp
+2026-04-27 12:01:29 11992 11992 E/WirelessAdbManager: start adbmns
+2026-04-27 12:01:29 11992 11992 D/WirelessAdbManager: init okay
+2026-04-27 12:01:29 11992 12044 E/AdbMdns: onDiscoveryStarted _adb-tls-connect._tcp
